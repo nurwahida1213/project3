@@ -60,19 +60,19 @@ base_url('contact') ?>">Contact</a>
         <div class="col-md-12 my-2 card">
             <div class="card-body">
                 <h5 class="h5">Siapa Aku</h5>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+                <p>CSS, atau Cascading Style Sheets, adalah bahasa yang digunakan untuk mendesain dan mengatur tata letak halaman web</p>
             </div>
         </div>
         <div class="col-md-12 my-2 card">
             <div class="card-body">
                 <h5 class="h5">Bisa Apa Aku</h5>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+                <p>CSS memungkinkan kamu untuk memisahkan konten HTML dari gaya presentasinya, sehingga membuat pengelolaan dan pemeliharaan situs web menjadi lebih efisien</p>
             </div>
         </div>
         <div class="col-md-12 my-2 card">
             <div class="card-body">
                 <h5 class="h5">Bagaimana Aku</h5>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam perferendis commodi tenetur quos ducimus repellat nulla, nam magni. Commodi iusto ad harum voluptas exercitationem facere eos earum laboriosam excepturi quas?</p>
+                <p>Dengan CSS, kamu dapat menentukan bagaimana elemen-elemen HTML seperti teks, gambar, dan tabel ditampilkan di browser</p>
             </div>
         </div>
     </div>
